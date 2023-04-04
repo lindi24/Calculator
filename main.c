@@ -1,8 +1,5 @@
-//  main.c
 //  Calculator
-//
 //  Created by Arlind Alliu on 4/3/23.
-//
 
 #include <stdio.h>
 #include <math.h>
